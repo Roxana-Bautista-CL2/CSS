@@ -1,0 +1,39 @@
+
+        /*Comentarios en CSS*/
+        .encabezado {
+            /*font- size tamaño de fuente
+              medidas comunes: px, %, em, rem */
+            font-size: 72px;
+            color:darkorchid;
+            /* background-color es para el color de fondo */
+            background-color:#ff69b4;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        body {
+            background-color:indigo;
+        }
+    #texto {
+        color:blue;
+        background-color: red;
+        font-size: 24px;
+        font-style: italic;
+    }
+    .texto { 
+        color:white;
+        background-color: black;
+
+    }
+    p { 
+        color:white;
+        background-color:dimgray;
+       
+    }
+    p{
+        color:yellow;
+        background-color:teal;
+
+    }
+    
+</body>
+</html>
